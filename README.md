@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Disciplina
 O IFNMG - Campus Montes Claros deseja informatizar o sistema de monitorias do curso de Ciência da Computação. Cada **aluno** pode se candidatar a uma monitoria, que é orientada por um **professor** da instituição.
 
 - Cada **Aluno** possui: 
-- Cada **Professor** possui: 
+- Cada **Professor** possui: id para identificar o professor, nome e o departamento a qual pertence.
 - Cada **Monitoria** possui: código da monitoria, o aluno que será monitor e o professor orientador.
 
 O sistema permite o gerenciamento completo dos dados (cadastro, consulta, atualização e exclusão) de alunos, professores e monitorias.
