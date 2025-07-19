@@ -1,0 +1,13 @@
+package repositorio;
+
+/**
+ *
+ * @author vitor
+ */
+
+import entidade.Professor;
+
+
+public class ProfessorRepository {
+    
+}
