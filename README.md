@@ -57,12 +57,4 @@ Todas as operações foram testadas no método `main()` da classe `Main.java`, c
 
 ## Diagramas de Classe
 
----
-
-## Diagramas de Classe
-
----
-
-## Diagramas de Classe
-
 ![alt text](image.png)
