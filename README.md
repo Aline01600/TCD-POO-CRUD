@@ -52,7 +52,7 @@ Todas as operações foram testadas no método `main()` da classe `Main.java`, c
     ├── AlunoRepository.java
     ├── ProfessorRepository.java
     └── MonitoriaRepository.java
-
+```
 ---
 
 ## Diagramas de Classe
